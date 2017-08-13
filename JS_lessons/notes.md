@@ -14,4 +14,6 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 
 
  
+## Lesson2
 
+* prototypes of Array, String and Object
