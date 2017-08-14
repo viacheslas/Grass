@@ -32,9 +32,36 @@
 `alert(), prompt(), confirm()` - *blocks script*  
 `parseInt(), parseFloat()`
 
-#### Simple operators
+#### Operators
 
+* **simple**  
 `+ - * /`  
 `%` - mod  
-`result = +str` - `unary +` *casts str to num*
+`result = +str` - **unary `+` *casts str to num***
 
+* **increment/decrement**  
+`a++/a--` postfix  
+`++a/--a` prefix
+
+* **shorthands**  
+`+= -= *= /=`
+
+* **equality**  
+`=` assignment  
+`==` equality  
+`!=` not equal  
+  * `null == undefined` true
+  * `num == str` *casts str to num*
+  * `true/false` -> `1/0`   
+
+ * **identification**  
+ `===`  *type matters*  
+ `!==` not identical
+ 
+* **relation**  
+`> < => <=`  
+  * str compares char by char
+  
+* **logical**  
+`&&` and  
+`||` or

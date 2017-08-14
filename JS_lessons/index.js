@@ -11,17 +11,17 @@ function myclick () {
     };
 
     console.log(6);
-    //
-    // let myArray = [1, 2, 3];
-    // console.log(myArray);
-    //
-    // let myObject = {
-    //     height: 200,
-    //     width: 500,
-    //     color: 'red'
-    // };
-    // console.log(myObject);
-    // console.log(testfunction());
+
+    let myArray = [1, 2, 3];
+    console.log(myArray);
+
+    let myObject = {
+        height: 200,
+        width: 500,
+        color: 'red'
+    };
+    console.log(myObject);
+    console.log(testfunction());
 
     (function(){
         console.log('unanimous');
