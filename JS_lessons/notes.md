@@ -12,8 +12,6 @@ let testfnc = function () {
 * [].\__proto__  
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/prototype
 
-
- 
 ## Lesson2
 
 * prototypes of Array, String and Object
