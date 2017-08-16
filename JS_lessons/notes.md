@@ -9,8 +9,15 @@ let testfnc = function () {
 
 * ITVDN JS Essential cource
 
-* [].\__proto__  
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/prototype
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/prototype
+
+    var -legacy  
+    const  
+    let  
+    object{}  
+    array[]  
+
+    `type.__proto__`  --> type methods
 
 ## Lesson2
 

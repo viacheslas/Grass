@@ -82,36 +82,4 @@
     console.log(arrayTwo);
 
 
-
-
-
-
-
 })();
-
-
-
-
-
-
-
-
-
-
-
-   /**
-    var -legacy
-    const
-    let
-    object{}
-    array[]
-
-    string
-    number
-    boolean
-    null
-    undefined
-    type.__proto__  --> type methods
-
-    */
-
