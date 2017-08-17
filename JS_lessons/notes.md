@@ -21,4 +21,35 @@ let testfnc = function () {
 
 ## Lesson2
 
-* prototypes of Array, String and Object
+* Array prototype methods  
+```javascript
+Array.forEach(function (element, index, array) {
+    });
+```
+## Lesson3  
+* Scope
+* Local storage
+* JSON
+* Event listeners
+
+
+#### Hometask 
+* при открытии показать список контактов
+* вверху строка поиска
+* возможность добавить контакт
+* поля контакта: имя фамилия имейл телефон
+* должна быть возм добавлять неск телефонов и почт
+* просмотр контакта
+* редактирование контакта
+* удаление контакта
+
+`contacts[]`
+  
+```
+contact{
+    name
+    lastname
+    phones[]
+    emails[]
+}
+```
